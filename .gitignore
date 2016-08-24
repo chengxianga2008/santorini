@@ -1,0 +1,8 @@
+/wp-content/mu-plugins
+/wp-content/mu-plugins1
+/wp-content/uploads
+wp-config.php
+.htaccess
+/wp-content/themes/proprint/vendor
+/wp-content/themes/proprint/composer.lock
+
